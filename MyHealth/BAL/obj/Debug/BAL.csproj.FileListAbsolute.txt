@@ -1,0 +1,11 @@
+C:\Users\welcome\source\repos\MyHealth\BAL\bin\Debug\BAL.dll
+C:\Users\welcome\source\repos\MyHealth\BAL\bin\Debug\BAL.pdb
+C:\Users\welcome\source\repos\MyHealth\BAL\bin\Debug\BEL.dll
+C:\Users\welcome\source\repos\MyHealth\BAL\bin\Debug\DAL.dll
+C:\Users\welcome\source\repos\MyHealth\BAL\bin\Debug\BEL.pdb
+C:\Users\welcome\source\repos\MyHealth\BAL\bin\Debug\DAL.pdb
+C:\Users\welcome\source\repos\MyHealth\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\welcome\source\repos\MyHealth\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\welcome\source\repos\MyHealth\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\welcome\source\repos\MyHealth\BAL\obj\Debug\BAL.dll
+C:\Users\welcome\source\repos\MyHealth\BAL\obj\Debug\BAL.pdb

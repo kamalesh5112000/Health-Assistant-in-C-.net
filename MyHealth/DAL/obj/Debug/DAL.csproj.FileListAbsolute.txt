@@ -1,0 +1,6 @@
+C:\Users\welcome\source\repos\MyHealth\DAL\bin\Debug\DAL.dll
+C:\Users\welcome\source\repos\MyHealth\DAL\bin\Debug\DAL.pdb
+C:\Users\welcome\source\repos\MyHealth\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\welcome\source\repos\MyHealth\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\welcome\source\repos\MyHealth\DAL\obj\Debug\DAL.dll
+C:\Users\welcome\source\repos\MyHealth\DAL\obj\Debug\DAL.pdb
